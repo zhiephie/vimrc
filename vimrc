@@ -672,7 +672,9 @@ endif
 "colorscheme mustang_silent
 "colorscheme wombat256
 "colorscheme jellybeans
-colorscheme onedark
+"colorscheme onedark
+set background=dark
+colorscheme solarized
 
 " Pulse ------------------------------------------------------------------- {{{
 
