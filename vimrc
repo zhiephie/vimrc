@@ -774,8 +774,8 @@ nnoremap <leader>b :CtrlPBuffer<cr>
 inoremap <c-u> <esc>viwUea
 nnoremap <c-u> viwUe
 
-iabbr m@@ me@nvie.com
-iabbr v@@ vincent@3rdcloud.com
+iabbr m@@ me@mvie.com
+iabbr v@@ vincent@3edcloud.com
 iabbr ssig --<cr>Vincent Driessen<cr>vincent@3rdcloud.com
 
 " Quote words under cursor
